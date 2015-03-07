@@ -1,3 +1,6 @@
+# Builds four plots from household consumption data
+# See project1DA.R for functions to read data and build data frame
+# used to build plot
 
 
 plot4 <- function()

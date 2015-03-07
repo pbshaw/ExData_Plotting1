@@ -1,3 +1,6 @@
+# Plots 3 energy sub metering variables over time
+# See project1DA.R for functions to read data and build data frame
+# used to build plot
 
 
 plot3 <- function()

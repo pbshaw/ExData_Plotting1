@@ -1,4 +1,6 @@
-
+# Plots histogram for Global Active Power variable
+# See project1DA.R for functions to read data and build data frame
+# used to build plot
 
 plot1 <- function()
 {
